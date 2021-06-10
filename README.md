@@ -1,6 +1,6 @@
 # Título del Proyecto
 
-Segundo ejercicio de la practica 1ºTrimestre
+Esté proyecto está destinado a practicar con hilos concurrentes y secuenciales en Java
 
 ## Comenzando 🚀
 
